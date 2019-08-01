@@ -1,0 +1,32 @@
+.has-white-color{
+    color: #ffffff!important;
+}
+
+.has-very-dark-gray-color{
+    color: #111111!important;
+}
+
+.has-brand-color-1{
+    color: #6128A1!important;
+}
+
+.has-brand-color-2{
+    color: #E94B59!important;
+}
+
+.has-white-color-background-color{
+    color: #ffffff!important;
+}
+
+.has-very-dark-gray-color-background-color{
+    background-color: #111111!important;
+}
+
+.has-brand-color-1-background-color{
+    background-color: #6128A1!important;
+}
+
+.has-brand-color-2-background-color{
+    background-color: #E94B59!important;
+}
+
